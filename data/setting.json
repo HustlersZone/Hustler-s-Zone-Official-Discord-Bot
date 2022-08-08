@@ -1,0 +1,17 @@
+{
+    "channel_id": 1000459628351602708,
+    "log_channel_id": 1005342986651054110,
+    "message":"Take Your Roles",
+    "roles": [
+        {
+            "role": "Ping role 1",
+            "emoji": "🎥"
+        },
+        {
+            "role": "ping role 2",
+            "emoji": "🎵"
+        }
+
+       
+    ]
+}
