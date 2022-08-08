@@ -1,7 +1,7 @@
 # Hustler's Zone Official Discord Bot🔥
 
 
-This Is Official Bot For Hustler's Zone Discord Community.It is made with the intention of Our Community's Branding.\n
+This Is Official Bot For Hustler's Zone Discord Community.It is made with the intention of Our Community's Branding.
 This Bot Has Decent Amount Of Features Which Fulfill Our Needs.
 Bot is made with the intention of branding.
 
